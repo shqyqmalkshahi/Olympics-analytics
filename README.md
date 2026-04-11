@@ -28,6 +28,17 @@ Companies invest millions in Olympic sponsorships, but measuring the effectivene
 
 ---
 
+## Methodology
+
+- Cleaned and validated dataset (60 records, no missing values)  
+- Aggregated sponsor performance by impressions and brand lift  
+- Analyzed platform-level exposure and engagement performance  
+- Evaluated sport-level sponsorship visibility  
+- Conducted ROI analysis by comparing advertising spend and brand lift  
+- Visualized trends using bar charts and scatter plots
+
+---
+
 ##  Key Analysis Performed
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
@@ -36,10 +47,22 @@ Companies invest millions in Olympic sponsorships, but measuring the effectivene
 
 ---
 
-##  Key Insights
-- Certain audience age groups showed significantly higher engagement rates
-- Digital platforms outperformed traditional advertising in ROI
-- Sponsorship impact varies based on sport category and audience demographics
+## Key Insights
+
+- Coca-Cola, Visa, and Samsung generated the highest total sponsor impressions  
+- TikTok and YouTube produced the strongest engagement and exposure  
+- Figure Skating and Alpine Skiing delivered the highest sponsorship visibility  
+- Average engagement rate ≈ 6.63% and average brand lift ≈ 10.99%  
+- Higher ad spend generally correlates with increased brand lift, though not perfectly linear  
+
+---
+
+## Target Audience
+
+- Brand marketing teams  
+- Sponsorship and partnership managers  
+- Sports marketing analysts  
+- Media planners
 
 ---
 
