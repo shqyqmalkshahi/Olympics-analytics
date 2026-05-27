@@ -67,9 +67,11 @@ Companies invest millions in Olympic sponsorships, but measuring the effectivene
 ---
 
 ##  Project Structure
-- `Olympic Sponsorship ROI & Brand Exposure Analytics.ipynb` → Main analysis
-- `Olympics_Sponsorship_ROI_Dataset.xlsx` → Dataset used
-- `.pdf / .docx` → Project report and documentation
+
+- `Olympic Sponsorship ROI & Brand Exposure Analytics.ipynb` → main analysis notebook
+- `Olympic Sponsorship ROI & Brand Exposure Analytics.pdf` → notebook export
+- `Olympic Sponsorship ROI & Brand Exposure Analytics_Report.pdf` → final written report
+- `Olympics_Sponsorship_ROI_Dataset.xlsx` → dataset used for analysis
 
 ---
 
